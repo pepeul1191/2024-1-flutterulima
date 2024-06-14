@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448519525787",
+    "project_id": "project-6635424034235905328",
+    "storage_bucket": "project-6635424034235905328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448519525787:android:e19e8de3d10aaba10dfd3e",
+        "android_client_info": {
+          "package_name": "com.example.ulimagym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChdtZF6qE7vipCaTPn5vZSCJ48-LPVNRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
